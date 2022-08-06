@@ -1,0 +1,101 @@
+
+/*
+Author    KMS - Martin Dubois, P. Eng.
+Copyright (C) 2022 KMS
+Product   WebSite3
+File      front-end/src/App.css
+*/
+
+a
+{
+    color: #f5e4cc;
+}
+
+body
+{
+    background-color: #f5e4cc;
+    height: 100%;
+}
+
+button
+{
+    clear: none;
+    font-size: x-large;
+    margin: 10px;
+}
+
+div.box
+{
+    background-color: #282c34;
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    clear: right;
+    color: white;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    width: 512px;
+}
+
+div.boxes
+{
+    display: flow-root;
+}
+
+div.centered
+{
+    display: flex;
+    justify-content: center;
+}
+
+div.entries
+{
+    background-color: #282c34;
+    border-color: black;
+    border-radius: 20px;
+    border-style: solid;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+}
+
+div.footer
+{
+    bottom: 0;
+    position: fixed;
+    height: 4%;
+    width: 100%;
+}
+
+div.main
+{
+    min-height: 50%;
+}
+
+div.right
+{
+    float: right;
+}
+
+img.logo
+{
+    height: 64px;
+    padding: 10px;
+}
+
+table
+{
+    font-size: x-large;
+}
+
+td
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+th
+{
+    border-style: solid;
+}

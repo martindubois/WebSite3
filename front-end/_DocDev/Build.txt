@@ -1,0 +1,21 @@
+
+Author    Martin Dubois, P. Eng.
+Copyright (C) 2022 KMS
+Product   WebSite3
+File      front-end/_DocDev/Build.txt
+
+Name                _________________________________________________________
+
+Date and time       20 ______ - ______ - _______              ______ : ______
+
+[ ] File "front-end/src/pages/Layout.js" - Edit the version number
+[ ] Tool "Terminal" - In the "front-end" sub folder
+        npm run build
+        ./Upload.cmd
+[ ] Tool "Git"
+    - Commit modified file with "{Ma}.{Mi}.{Bu}_front-end" as message
+    - Push to the servers
+
+Time and duration   ______ : ______           ______ hours and ______ minutes
+
+Signature           _________________________________________________________

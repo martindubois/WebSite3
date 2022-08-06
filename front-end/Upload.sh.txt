@@ -1,0 +1,23 @@
+open ftp.kms-quebec.com
+binary
+lcd build
+cd public_html
+put favicon.ico
+put index.html
+put index.html List.htm
+put index.html Subject.htm
+put logo1b.png
+put robots.txt
+lcd static
+cd static
+lcd css
+cd css
+mput main.*.css
+mput main.*.map
+lcd ..
+cd ..
+lcd js
+cd js
+mput *.js
+mput *.map
+bye

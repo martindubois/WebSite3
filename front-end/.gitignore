@@ -1,0 +1,12 @@
+
+# Author    KMS - Martin Dubois, P. Eng.
+# Copyright (C) 2022 KMS
+# Product   WebSite3
+# File      front-en/.gitignore
+
+# ===== nodejs ==============================================================
+/node_modules
+
+# ===== npm run build =======================================================
+/build
+/front-end
