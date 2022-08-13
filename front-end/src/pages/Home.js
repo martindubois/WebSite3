@@ -76,7 +76,16 @@ const Home = () =>
     default:
     }
 
-    let lStartIndex = sStartIndex % lCardList.length
+    let lStartIndex = sStartIndex
+
+    if ( 0 > lStartIndex )
+    {
+        lStartIndex = 0
+    }
+    else
+    {
+        lStartIndex = lStartIndex % lCardList.length
+    }
 
     let lButton_Next;
     let lStopIndex = lStartIndex + CARD_PER_PAGE;
@@ -93,7 +102,7 @@ const Home = () =>
 
     let lButton_Previous;
 
-    if ( CARD_PER_PAGE > sStartIndex )
+    if ( 0 >= lStartIndex )
     {
         lButton_Previous = <button disabled > { lLabel_Previous } </button>
     }

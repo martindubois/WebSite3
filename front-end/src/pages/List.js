@@ -4,7 +4,7 @@
 // Product   WebSite3
 // File      front-end/src/pages/Home.js
 
-import { useOutletContext } from "react-router-dom"
+import { useOutletContext } from 'react-router-dom'
 
 import { CardList_en, CardList_fr } from '../CardList'
 

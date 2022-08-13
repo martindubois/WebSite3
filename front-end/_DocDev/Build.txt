@@ -9,6 +9,10 @@ Name                _________________________________________________________
 Date and time       20 ______ - ______ - _______              ______ : ______
 
 [ ] File "front-end/src/pages/Layout.js" - Edit the version number
+
+Version             ______ . ______ . ______ . ______
+
+[ ] File "front-end/_DocUser/WebSite3.front-end.ReadMe.txt"
 [ ] Tool "Terminal" - In the "front-end" sub folder
         npm run build
         ./Upload.cmd

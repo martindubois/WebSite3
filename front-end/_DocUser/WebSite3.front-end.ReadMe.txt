@@ -1,0 +1,10 @@
+
+Author     KMS - Martin Dubois, P. Eng.
+Copyrioght (C) 2022 KMS
+Product    WebSite3
+File       front-end/_DocUser/WebSite3.front-end.ReadMe.txt
+
+0.0.1 2022-08-13
+* 0001 - WEB Development - Accented Chararaters
+
+0.0.0
