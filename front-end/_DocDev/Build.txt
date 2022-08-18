@@ -17,7 +17,7 @@ Version             ______ . ______ . ______ . ______
         npm run build
         ./Upload.cmd
 [ ] Tool "Git"
-    - Commit modified file with "{Ma}.{Mi}.{Bu}_front-end" as message
+    - Commit modified file with "{Ma}.{Mi}.{Bu}-front-end" as message
     - Push to the servers
 
 Time and duration   ______ : ______           ______ hours and ______ minutes

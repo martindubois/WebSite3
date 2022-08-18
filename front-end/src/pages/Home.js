@@ -90,7 +90,7 @@ const Home = () =>
     let lButton_Next;
     let lStopIndex = lStartIndex + CARD_PER_PAGE;
 
-    if ( lCardList.length < lStopIndex )
+    if ( lCardList.length <= lStopIndex )
     {
         lButton_Next = <button disabled > { lLabel_Next } </button>
         lStopIndex = lCardList.length;
