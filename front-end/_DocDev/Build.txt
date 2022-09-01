@@ -15,7 +15,7 @@ Version             ______ . ______ . ______ . ______
 [ ] File "front-end/_DocUser/WebSite3.front-end.ReadMe.txt"
 [ ] Tool "Terminal" - In the "front-end" sub folder
         npm run build
-        ./Upload.cmd
+        ./Upload.sh
 [ ] Tool "Git"
     - Commit modified file with "{Ma}.{Mi}.{Bu}-front-end" as message
     - Push to the servers

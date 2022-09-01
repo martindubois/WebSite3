@@ -4,6 +4,9 @@ Copyrioght (C) 2022 KMS
 Product    WebSite3
 File       front-end/_DocUser/WebSite3.front-end.ReadMe.txt
 
+0.0.4 2022-09-01
+* 0003 - C++ - C++ and embedded processor
+
 0.0.2 2022-08-17
 * 0002 - KMS - KMS
 

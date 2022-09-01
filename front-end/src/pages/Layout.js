@@ -42,7 +42,7 @@ const Layout = () =>
             <div className = "footer" >
                 <footer>
                     <hr/>
-                    <address>Copyright &copy; 2022 KMS - 0.0.2</address>
+                    <address>Copyright &copy; 2022 KMS - 0.0.3</address>
                 </footer>
             </div>
         </> )
