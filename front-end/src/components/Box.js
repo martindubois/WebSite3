@@ -23,7 +23,10 @@ const Box = ( aProps ) =>
 
     let lURL_Card    = 'http://www.kms-quebec.com/Cards/' + aProps.Card.No + '_' + aProps.Language + '.pdf'
     let lURL_Image   = 'http://www.kms-quebec.com/Cards/' + aProps.Card.No + '_' + aProps.Language + '.png'
-    let lURL_Subject = "Subject.htm?Subject=" + aProps.Card.Subject;
+    let lURL_Subject = 'Subject.htm?Subject=' + encodeURIComponent(aProps.Card.Subject)
+
+    console.log(aProps.Card.Subject)
+    console.log(lURL_Subject)
 
     return (
         <div className = "box">
