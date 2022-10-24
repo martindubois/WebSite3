@@ -4,6 +4,9 @@ Copyrioght (C) 2022 KMS
 Product    WebSite3
 File       front-end/_DocUser/WebSite3.front-end.ReadMe.txt
 
+0.0.5 2022-09-01
+* 0004 - KMS-PLC - i-TRiLOGY
+
 0.0.4 2022-09-01
 * 0003 - C++ - C++ and embedded processor
 
