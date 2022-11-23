@@ -6,6 +6,7 @@
 
 const CardList_en =
 [
+    { No: "0006", Subject: "KMS"                , Title: "GIT Repositories"                  },
     { No: "0005", Subject: "3D Models"          , Title: "Cyclone protector (PEmicro)"       },
     { No: "0004", Subject: "KMS-PLC"            , Title: "i-TRiLOGY"                         },
     { No: "0003", Subject: "C++"                , Title: "C++ and embedded processor"        },
@@ -16,6 +17,7 @@ const CardList_en =
 
 const CardList_fr =
 [
+    { No: "0006", Subject: "KMS"                , Title: "D\xE9p\xF4t GIT"                   },
     { No: "0005", Subject: "Mod\xE8les 3D"      , Title: "Protecteur pour Cyclone (PEmicro)" },
     { No: "0004", Subject: "KMS-PLC"            , Title: "i-TRiLOGY"                         },
     { No: "0003", Subject: "C++"                , Title: "C++ et processeur embarqu\xE9"     },

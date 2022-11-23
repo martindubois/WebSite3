@@ -4,6 +4,9 @@ Copyrioght (C) 2022 KMS
 Product    WebSite3
 File       front-end/_DocUser/WebSite3.front-end.ReadMe.txt
 
+0.0.7 2022-11-23
+* 0006 - KMS - GIT Repositories
+
 0.0.6 2022-11-02
 * 0005 - 3D Models - Cyclone protector (PEmicro)
 
